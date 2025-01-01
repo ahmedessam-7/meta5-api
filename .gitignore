@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+
+# Python base files
+bases/
+
+# Python log files
+logs/
+
+# Environment variables
+.env

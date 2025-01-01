@@ -1,0 +1,13 @@
+# Use LF for text files
+* text eol=lf
+
+# Handle image files as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.ico binary
+*.icns binary
+*.tiff binary
+*.svg binary

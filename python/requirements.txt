@@ -1,0 +1,2 @@
+MT5Manager == 5.0.4732
+python-dotenv == 1.0.1
