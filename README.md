@@ -1,5 +1,9 @@
 # Meta5 API
 
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Node.js](https://img.shields.io/badge/Node.js-16%2B-green)
+![Version](https://img.shields.io/badge/version-2.0.0-yellow)
+
 Meta5 API is a scalable backend service for the Meta 5 project, built with Python and Node.js.
 
 ## Features
